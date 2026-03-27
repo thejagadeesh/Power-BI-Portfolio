@@ -5,10 +5,10 @@
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <img width="1360" height="776" alt="Image" src="https://github.com/user-attachments/assets/741c191b-43b1-4b11-98bd-62c3a2c55bf4" />
 
-## 📁 How to View
-1.  Download the `.pbix` file in this folder.
-2.  Open with **Power BI Desktop**.
-
+### 📁 How to View
+1. **Download** the `.pbix` file in this folder.
+2. **Open** with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+   
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -26,6 +26,7 @@ The primary objective was to transform raw HR data into actionable insights rega
 * **Power BI** – Dashboard visualization and interactive reporting.
 * **Power Query** – Data transformation and ETL processes.
 * **DAX** – measures and calculations.
+  
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💡 Key Insights
@@ -34,6 +35,7 @@ The primary objective was to transform raw HR data into actionable insights rega
 * **Health Metrics:** Sick Leave is maintained at a low **1.10%**.
 * **Peak Attendance:** **Mondays (93.21%)** and **Tuesdays (93.03%)** see the highest physical presence.
 * **Friday Slump:** Presence dips to **90.19%**, indicating Fridays are the most popular days for flexible arrangements.
+  
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ##  Business Recommendations
