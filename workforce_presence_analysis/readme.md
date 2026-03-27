@@ -9,6 +9,7 @@
 
 ## Project Overview
 This project analyzes employee attendance patterns, work-from-home (WFH) preferences, and sick leave (SL) trends at **Atliq Technologies**. The goal is to uncover insights that help optimize office space utilization, support flexible work policies, and improve overall workforce management.
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Objective
