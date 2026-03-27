@@ -4,6 +4,11 @@
 ## Dashboard Preview
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <img width="1360" height="776" alt="Image" src="https://github.com/user-attachments/assets/741c191b-43b1-4b11-98bd-62c3a2c55bf4" />
+
+## 📁 How to View
+1.  Download the `.pbix` file in this folder.
+2.  Open with **Power BI Desktop**.
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -35,11 +40,7 @@ The primary objective was to transform raw HR data into actionable insights rega
 1.  **Collaboration Planning:** Schedule critical in-person meetings on **Mondays/Tuesdays** to ensure maximum team participation.
 2.  **Space Optimization:** Consider "Hot-Desking" or reduced office utilities on **Fridays** due to lower physical occupancy.
 3.  **Well-being:** Continue current wellness initiatives to maintain the low 1.1% sick leave rate.
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📁 How to View
-1.  Download the `.pbix` file in this folder.
-2.  Open with **Power BI Desktop**.
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 
