@@ -27,14 +27,14 @@ Each project is organized into its own dedicated folder to keep the technical do
 * **Key Metrics:** 91.83% Presence | 10% WFH Preference.
 * **Technical Highlights:** Daily attendance tracking, Time Intelligence DAX, and Workplace behavior modeling.
 * **Business Impact:** Provided data-backed evidence to optimize office utility costs by identifying Fridays as the highest WFH days.
-* **[View Project Folder ↗](./workforce-presence-analysis)**
+* **[View Project Folder ↗](workforce_presence_analysis)**
 
 ### 3. [HR Analytics: Compensation & Equity](./hr-compensation-demographics-analysis)
 **Focus:** Strategic HR & Pay Parity
 * **Key Metrics:** $54K Average Salary | 161 Total Headcount.
 * **Technical Highlights:** Gender pay gap analysis, Education-to-Salary correlation (Treemaps), and Cumulative growth trends.
 * **Business Impact:** Confirmed strong gender pay equity across the organization and calculated the ROI of employee upskilling.
-* **[View Project Folder ↗](./hr-compensation-demographics-analysis)**
+* **[View Project Folder ↗](hr-compensation-demographics-analysis)**
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
