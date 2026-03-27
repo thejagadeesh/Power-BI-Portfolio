@@ -20,7 +20,7 @@ Each project is organized into its own dedicated folder to keep the technical do
 * **Key Metrics:** 13.77M (INR) / $163.51K (USD) Total Sales | 19.04% Conversion.
 * **Technical Highlights:** Multi-currency reporting toggle (INR/USD), Sales Funnel velocity (Lead-to-Sale), and Refund analysis.
 * **Business Impact:** Identified that 80% of users are in "Pending Payment" status, uncovering a massive revenue recovery opportunity.
-* **[View Project Folder ↗](./sales-revenue-multi-currency-analysis)**
+* **[View Project Folder ↗](sales-revenue-multi-currency-analysis)**
 
 ### 2. [HR Analytics: Workforce Presence](./workforce-presence-analysis)
 **Focus:** Operational Efficiency & Hybrid Work
